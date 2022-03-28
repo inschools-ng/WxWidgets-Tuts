@@ -115,6 +115,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\..\Downloads\Compressed\Computerator-master\Computerator-master\Computerator\Calculator.h" />
+    <ClInclude Include="..\..\..\..\Downloads\Compressed\Computerator-master\Computerator-master\Computerator\MainFrame.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\Downloads\Compressed\Computerator-master\Computerator-master\Computerator\Calculator.cpp" />
+    <ClCompile Include="..\..\..\..\Downloads\Compressed\Computerator-master\Computerator-master\Computerator\MainFrame.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
