@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GWUI2", "GWUI2\GWUI2.vcxproj", "{342D1111-722A-4D0C-A305-E8D84A755639}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Practice-calculator", "Practice-calculator\Practice-calculator.vcxproj", "{ACDF25DE-EA53-4431-8F6A-E4DA6A729C35}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -23,14 +21,6 @@ Global
 		{342D1111-722A-4D0C-A305-E8D84A755639}.Release|x64.Build.0 = Release|x64
 		{342D1111-722A-4D0C-A305-E8D84A755639}.Release|x86.ActiveCfg = Release|Win32
 		{342D1111-722A-4D0C-A305-E8D84A755639}.Release|x86.Build.0 = Release|Win32
-		{ACDF25DE-EA53-4431-8F6A-E4DA6A729C35}.Debug|x64.ActiveCfg = Debug|x64
-		{ACDF25DE-EA53-4431-8F6A-E4DA6A729C35}.Debug|x64.Build.0 = Debug|x64
-		{ACDF25DE-EA53-4431-8F6A-E4DA6A729C35}.Debug|x86.ActiveCfg = Debug|Win32
-		{ACDF25DE-EA53-4431-8F6A-E4DA6A729C35}.Debug|x86.Build.0 = Debug|Win32
-		{ACDF25DE-EA53-4431-8F6A-E4DA6A729C35}.Release|x64.ActiveCfg = Release|x64
-		{ACDF25DE-EA53-4431-8F6A-E4DA6A729C35}.Release|x64.Build.0 = Release|x64
-		{ACDF25DE-EA53-4431-8F6A-E4DA6A729C35}.Release|x86.ActiveCfg = Release|Win32
-		{ACDF25DE-EA53-4431-8F6A-E4DA6A729C35}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
